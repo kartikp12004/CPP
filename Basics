@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+int main(){
+    // cout<<"Namastey Duniya :-)";
+
+    // int a = 5;
+    // cout << a <<endl;
+
+    // bool bl = true;
+    // cout << bl << endl;
+
+    // float fl = 1.2;
+    // cout <<fl<<endl;
+
+    // double db = 1.25;
+    // cout << db << endl;
+
+    // int size = sizeof (db);
+    // cout << "Size of db  is : " << size << endl;
+
+    // int a = 'a';
+    // cout << a <<endl;
+    // char b = 102;
+    // cout << b ; // Typecasting
+
+    // int a = -5;
+    // cout << a << endl;
+
+    // int a = 5;
+    // int b = 6;
+    // bool one = (a==b);
+    // cout << one <<endl;
+
+    // bool two = (a<=b);
+    // cout << two << '\n';
+
+    // bool three = (a!=b);
+    // cout << three ;
+
+
+
+    int a = 12;
+    cout << !a << endl;
+
+    // int b = 12;
+    // int c = 13;
+    // bool d = b&&c;
+    // cout << d ;
+
+    
+
+}
