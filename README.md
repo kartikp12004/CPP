@@ -1,2 +1,2 @@
 # CPP
-<h1>Daily learning DSA series in CPP<h1>
+<h2>Daily learning DSA series in CPP<h2>
