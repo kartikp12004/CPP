@@ -47,13 +47,24 @@ int main(){
     // }
     // cout<<"Sum of given number is : " << sum <<endl;
 
-    int n;
-    cin >> n;
-    int sum = 0;
-    int b = 2;
-    while(b<=n){
-        sum = sum + b;
-        b++;
+    // int n;
+    // cin >> n;
+    // int sum = 0;
+    // int b = 2;
+    // while(b<=n){
+    //     sum = sum + b;
+    //     b++;
+    // }
+    // cout << sum;    
+
+    int a = 2;
+    int b;
+    cout<<"Enter an number : ";
+    cin>>b;
+    for(a ; b>=a ; a++){
+        if(a%2==0){
+            b = b+a;
+            cout<<a<<" ";
+        }
     }
-    cout << sum;    
 }
